@@ -1,4 +1,4 @@
-# Praktikum3
+# Praktikum 3
 
 ## Pengaturan Layout dan Column
 
