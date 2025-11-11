@@ -1,3 +1,3 @@
-# praktikum6
+# Praktikum6
 
-A new Flutter project.
+## Widget GridView, ListView, GridView.builder, and ListView.builder
