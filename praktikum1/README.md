@@ -1,6 +1,6 @@
-# Praktikum 1 Pengenalan Mobile Programming dan Setup Lingkungan
+# Praktikum 1 
 
-A new Flutter project.
+##Pengenalan Mobile Programming dan Setup Lingkungan
 
 1.	Install Flutter dan Perangkat pendukung
 2.	Membuat proyek Flutter baru.
