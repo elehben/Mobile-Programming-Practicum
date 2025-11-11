@@ -1,6 +1,6 @@
-# praktikum3
+# Praktikum 3
 
-A new Flutter project.
+## Pengaturan Layout dan Column
 
 ## Getting Started
 

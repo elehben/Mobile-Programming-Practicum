@@ -1,6 +1,6 @@
-# praktikum4
+# Praktikum 4
 
-A new Flutter project.
+## Widget Flexible and Expanded
 
 ## Getting Started
 
