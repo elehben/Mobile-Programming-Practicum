@@ -1,6 +1,6 @@
-# Praktikum 2 Widget Row dan Column
+# Praktikum 2 
 
-A new Flutter project.
+## Widget Row dan Column
 
 1.	Membuat proyek Flutter baru.
 2.	Ubah kode program awal agar properti title pada MaterialApp menjadi “Row and Column”.
