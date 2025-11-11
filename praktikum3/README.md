@@ -1,6 +1,6 @@
 # Praktikum3
 
-## Pengaturan Loyout dan Column
+## Pengaturan Layout dan Column
 
 ## Getting Started
 
